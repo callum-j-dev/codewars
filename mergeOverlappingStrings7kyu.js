@@ -13,4 +13,3 @@ function mergeStrings(first, second){
     
     return out;
   }
-  
